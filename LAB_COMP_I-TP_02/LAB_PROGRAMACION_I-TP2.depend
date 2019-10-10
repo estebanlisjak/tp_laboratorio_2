@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1570719951 source:e:\lab_programacion_i-tp2(codeblock)\lab_programacion_i-tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"inputs.h"
+
+1570727196 e:\lab_programacion_i-tp2(codeblock)\lab_programacion_i-tp2\arrayemployees.h
+
+1570724148 source:e:\lab_programacion_i-tp2(codeblock)\lab_programacion_i-tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"inputs.h"
+	<ctype.h>
+
+1570720045 source:e:\lab_programacion_i-tp2(codeblock)\lab_programacion_i-tp2\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570720045 e:\lab_programacion_i-tp2(codeblock)\lab_programacion_i-tp2\inputs.h
+
